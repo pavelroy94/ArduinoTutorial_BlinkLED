@@ -11,4 +11,4 @@
 2	Resistor 330 Ohm<br>
 2+	Jumper Wires</p>
 
-<p>This circuit can be programmed in different alternate ways. Check <strong>.ino</strong> files for code snippet.</p>
+<p>This circuit can be programmed in alternate ways. Check <strong>.ino</strong> files for code snippet.</p>
