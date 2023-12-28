@@ -1,5 +1,5 @@
 
-<h1> Bill of Materials </h1>
+<h6> Bill of Materials </h6>
 
 <p>1	BreadBoard Mini<br>
 1	LED Diode	1<br>
