@@ -10,3 +10,5 @@
 1	Arduino UNO	1<br>
 2	Resistor 330 Ohm<br>
 2+	Jumper Wires</p>
+
+<p>This circuit can be programmed in different alternate ways. Check**.ino**files for code snippet</p>
